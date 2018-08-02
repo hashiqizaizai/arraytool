@@ -1,13 +1,26 @@
 {
     "name": "hashiqizaizai/arraytool",
     "description": "this is an array tool",
-    "license": "MIT",
+    "license": "Apache-2.0",
+    "version": "1.0",
     "authors": [
         {
             "name": "hashiqizaizai",
             "email": "1165134266@qq.com"
         }
     ],
-    "require": {}
-    
+     "support": {
+     "source": "https://github.com/hashiqizaizai/arraytool"
+   },
+   "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "hashiqizaizai\\arraytool\\": "src/"
+        }
+    }
+
 }
+
+
