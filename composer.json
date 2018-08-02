@@ -1,0 +1,12 @@
+{
+    "name": "hashiqizaizai/arraytool",
+    "description": "this is an array tool",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hashiqizaizai",
+            "email": "1165134266@qq.com"
+        }
+    ],
+    "require": {}
+}
