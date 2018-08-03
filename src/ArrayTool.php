@@ -1,9 +1,9 @@
 <?php
-namespace common\models;
-use common\models\StringTool;
-use common\models\Exception;
-use common\models\UnsetArrayValue;
-use common\models\ReplaceArrayValue;
+namespace hashiqizaizai\arraytool;
+use hashiqizaizai\arraytool\StringTool;
+use hashiqizaizai\arraytool\Exception;
+use hashiqizaizai\arraytool\UnsetArrayValue;
+use hashiqizaizai\arraytool\ReplaceArrayValue;
 
 class ArrayTool
 {    

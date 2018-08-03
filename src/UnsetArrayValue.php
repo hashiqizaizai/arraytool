@@ -1,5 +1,5 @@
 <?php
-namespace common\models;
+namespace hashiqizaizai\arraytool;
 
 class UnsetArrayValue
 {   
